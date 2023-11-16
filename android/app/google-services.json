@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94315770862",
+    "project_id": "card-flutter",
+    "storage_bucket": "card-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94315770862:android:e9429216cfe372a90fd4ff",
+        "android_client_info": {
+          "package_name": "github.comJoaoJunior7.card_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbC8ccrSK2FuBEDW-5y6yaBTir452FtAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
